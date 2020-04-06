@@ -13,7 +13,8 @@ Because I have many projects on Bitbucket, here's an overview with links:
     * https://bitbucket.org/Berghopper/primer_evaluation_tool/
     * https://bitbucket.org/Berghopper/gff_query_tool/
 
-## HTML/CSS/JS:
+## HTML/CSS/JS/CGI:
+
 
 
 ## R:
@@ -23,6 +24,8 @@ Because I have many projects on Bitbucket, here's an overview with links:
 
 ## Python:
 
+- Punett web tool in CGI (python):
+    * https://bitbucket.org/Berghopper/punettwebtoolcgi/
 - Restriction enzymes in TKinter:
     * https://bitbucket.org/Berghopper/restrictionezymestkinter/
 - Potassium/Sodium pump animation with python and cytoscape:
